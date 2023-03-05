@@ -1,4 +1,7 @@
 package Day02;
 
 public class Hello_GitHub {
+    public static void main(String[] args) {
+        System.out.println("Hello gitHub");
+    }
 }
